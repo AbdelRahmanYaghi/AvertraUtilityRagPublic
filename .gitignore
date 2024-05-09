@@ -1,0 +1,5 @@
+venv
+__pycache__
+LocalDataPipelineVenv
+model_weights
+DataPipelineVenv
