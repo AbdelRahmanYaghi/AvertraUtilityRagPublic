@@ -11,3 +11,4 @@ pinecone-client
 python-dotenv
 instructor
 anthropic
+mixedbread-ai
