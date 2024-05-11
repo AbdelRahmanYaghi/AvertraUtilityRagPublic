@@ -121,6 +121,11 @@ To switch between local embedding mode, and API embedding mode, for generation. 
   <img src="images/LocalOptionPreview.gif" alt="LocallyOption" >
 </figure>
 
+To build it using docker, run the following two commands:
+
+<code>sudo docker build -t mainui .</code> <br>
+<code>sudo docker run -v modelVolume:/app/DataPipeline/model_weights mainui</code>
+
 <h3 id="examples"> Examples </h3>
 
 <figure>

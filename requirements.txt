@@ -6,9 +6,9 @@ requests
 BeautifulSoup4
 tqdm
 requests
-BeautifulSoup4
 pinecone-client
 python-dotenv
 instructor
 anthropic
 mixedbread-ai
+streamlit
